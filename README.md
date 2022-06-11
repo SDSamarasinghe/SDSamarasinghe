@@ -1,4 +1,7 @@
 <h2 align="center">Hi i'm Sadish <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">  </h2>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=Welcome+To+My+Profile+.+.+.+.;+.+.+.&center=true"></a>
+</p>
 
 - 🔭 I’m currently working on ITP Project
 - 🌱 I’m currently learning MERN Stack
