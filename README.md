@@ -32,7 +32,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sdsamarasinghe&show_icons=true&locale=en&layout=compact" alt="sdsamarasinghe" /></p>
 
-<a href="https://github.com/SDSamarasinghe/github-readme-activity-graph"><img alt="SDSamarasinghe's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SasinduNanayakkara&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/SDSamarasinghe/github-readme-activity-graph"><img alt="Sadish's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SasinduNanayakkara&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sdsamarasinghe&show_icons=true&locale=en" alt="sdsamarasinghe" /></p>
 
