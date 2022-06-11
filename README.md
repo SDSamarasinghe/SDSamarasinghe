@@ -1,5 +1,4 @@
-### Hola, I'm Sadish 👋
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SDSamarasinghe" alt="SDSamarasinghe" /> </p>
 
 - 🔭 I’m currently working on ITP Project
 - 🌱 I’m currently learning MERN Stack
