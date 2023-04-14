@@ -14,11 +14,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdsamarasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="sdsamarasinghe" /> </p>
 
 ## 📊 My Github Stats
-
-  <br/>
-    <a href="[https://github.com/SDSamarasinghe/github-readme-stats](https://github-readme-stats.vercel.app/api?username=SDSamarasinghe&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)"><img alt="SDSamarasinghe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SDSamarasinghe&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="[https://github.com/SDSamarasinghe/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SDSamarasinghe&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)"><img alt="SDSamarasinghe's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDSamarasinghe&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
   
   <br/>
 
@@ -53,10 +48,5 @@
 </p>
 
 
-<!--
-![Git Hub Contribution](https://user-images.githubusercontent.com/34527100/94196273-bebe8b80-fed1-11ea-9b26-7672c725a6fd.jpg)
--->
-
-<a href="https://github.com/SDSamarasinghe/github-readme-activity-graph"><img alt="Sadish's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SDSamarasinghe&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
