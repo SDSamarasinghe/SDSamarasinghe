@@ -3,10 +3,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=Welcome+To+My+Profile+.+.+.+.;+.+.+.&center=true"></a>
 </p>
 
-- 🔭 I’m currently undergraduate at sliit.
-- 🌱 I’m currently learning MERN Stack
+- 🔭 I’m currently undergraduate in Software Engineering at SLIIT.
 - 👯 I’m looking to collaborate on OpenSource projects
-- 🌱 I’m currently undergraduate in Software Engineering
 - 📫 How to reach me: lksadish@gmail.com
 
 
