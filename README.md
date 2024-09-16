@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=Welcome+To+My+Profile+.+.+.+.;+.+.+.&center=true"></a>
 </p>
 
-- 🔭 I’m currently undergraduate in Software Engineering at SLIIT.
+- 🔭 Graduate Software Engineering.
 - 👯 I’m looking to collaborate on OpenSource projects
 - 📫 How to reach me: lksadish@gmail.com
 
