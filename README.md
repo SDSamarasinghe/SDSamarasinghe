@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=Welcome+To+My+Profile+.+.+.+.;+.+.+.&center=true"></a>
 </p>
 
-- 🔭 Graduate Software Engineering.
+- 🔭 Graduate Software Engineer.
 - 👯 I’m looking to collaborate on OpenSource projects
 - 📫 How to reach me: lksadish@gmail.com
 
